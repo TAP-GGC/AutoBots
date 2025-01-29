@@ -9,10 +9,11 @@
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
 
 ## :loudspeaker: About
-The objective of the workshop is  ...
+AutoBots is a maze puzzle where students get to learn how image recognition works with robots and how
+proper data training is essential for robots to recognize images.
 <!-- You can look at other TAP projects if you need a better idea of how to describe your workshops objectives -->
 
-This workshop has participants do ...
+This workshop has participants interact with a few distinct datasets that were each used to train some models. Students get to choose which dataset they would like to use, which would represent which model will be fed into the robot. The robot would then navigate through some obstacles and each dataset would reflect how well the robot could recognize those images.
 
 ## :bulb: Project Information
 <!-- 
@@ -29,12 +30,12 @@ You can select from a range of audiences or a single auidience. Examples:
     K-12
   You will be presenting most often to your peers who are taking introductory technology classes, so more often than not you should be including college in your target audience range. 
 -->
-* <b>Difficulty Level:</b> Choose your workshop difficulty (Beginner/Intermediate/Advanced)
-* <b>Target Audience:</b> K12 - College (edit .md file to view all options presented in the markdown comments)
-* <b>Duration of Workshop:</b> How long your workshop takes (1 hour, 30 minutes, etc.) 
-* <b>Needed Materials:</b> Materials needed to do your workshop (computer with keyboard, sphero, etc.)
-* <b>Learning Outcomes:</b> The primary goal of this project is to teach participants ...
-* <b>Your Main Technology</b> Name of Technology and then a brief descriptor. You will go more in depth on the technology used in a different section. 
+* <b>Difficulty Level:</b> Intermediate
+* <b>Target Audience:</b> 6-12, College
+* <b>Duration of Workshop:</b> 30 minutes
+* <b>Needed Materials:</b> MBot with Camera, Computer to insert pre-trained model into the MBot
+* <b>Learning Outcomes:</b> The primary goal is to show the audience how different datasets can effect how well a neural network can recognize images. Specifications such as lighting and angle of the image can impact the accuracy of the model.
+* <b>Your Main Technology</b> Pycharm
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
 
