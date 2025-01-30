@@ -63,7 +63,7 @@ You can select from a range of audiences or a single auidience. Examples:
 
 
 ## :page_with_curl: Project Description
-A more thorough description of your project. Not a full walkthrough, but describe the different sections of your project and the gist of what participants will be doing when interacting with it and what they'll learn.
+The purpose of this project is to show how different quality datasets can affect the model's ability to detect images. In the workshop, we'll have students look at each dataset and they can choose which one should be used for our model. Because the model will already be pre-trained with each of the datasets, no time will be wasted for actual training. It'll automatically be loaded into the MBot and the MBot will navigate some sort of obstacle course/maze. Even with the best dataset, models still have a chance to fail to properly recognize images, which highlights the limitations of both software and hardware.
 
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
