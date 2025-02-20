@@ -2,9 +2,9 @@
 <!-- This section is where you will replace the link to your transparent logo, the title of your project, and the very short desciptor of your project -->
 <!-- If you used Canva to make your icon and don't want to pay for a background remover, you can use the website https://www.remove.bg/ to do so -->
 <p align="center">
-  <img alt="Template Logo" src="media/logos/3dcnn.jpg" width="" height="350" />
-  <h1 align="center">Project Template (Example: A Game that Emphasizes the Importance of Programming Statements)</h1>
-  <p align="center">A project for ... by team Autobots </p>
+  <img alt="Autbots Logo" src="media/logos/3dcnn.png" width="" height="350" />
+  <h1 align="center">A simulation of Convolutional Neural Network for Self-Driving Cars</h1>
+  <p align="center">A project for all ages with an interest in Artificial Intelligence by team Autobots </p>
 </p>
 <!-- the emojis are not set in stone! If you'd like you can remove them entirely or select your own from https://gist.github.com/rxaviers/7360908 you are welcome to -->
 
