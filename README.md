@@ -63,7 +63,7 @@ You can select from a range of audiences or a single auidience. Examples:
 
 
 ## :page_with_curl: Project Description
-Project Overview: In this project, students will design custom hand gestures or images to represent specific movements or commands for an MBot robot. Using image recognition, the MBot will respond to these gestures by performing actions such as moving forward, turning, stopping, or navigating obstacles. Students will train a machine learning model to recognize their chosen gestures/images and teach the robot to react accordingly. The goal of this project is to challenge students to create unique hand gestures or images that can be trained into a machine learning model for controlling an MBot robot. Through this exercise, students will gain hands-on experience in image recognition, as well as a deeper understanding of the complexities and challenges involved in training AI models to accurately detect and interpret visual inputs for real-world applications.
+In this project, students will design custom hand gestures or images to represent specific movements or commands for an MBot robot. Using image recognition and machine learning, students will train a model to recognize these gestures and teach the robot to react accordingly—whether it’s moving forward, turning, stopping, or navigating obstacles. This hands-on project will allow students to develop their skills in image recognition, AI model training, and robotics control, while exploring the complexities and challenges of creating real-world applications using AI and robotics technologies.
 
 
 ## :memo: Publications
