@@ -31,7 +31,7 @@ You can select from a range of audiences or a single auidience. Examples:
   You will be presenting most often to your peers who are taking introductory technology classes, so more often than not you should be including college in your target audience range. 
 -->
 * <b>Difficulty Level:</b> Intermediate
-* <b>Target Audience:</b> 6-12, College
+* <b>Target Audience:</b> 6-12, College, Non-Stem
 * <b>Duration of Workshop:</b> 30 minutes
 * <b>Needed Materials:</b> MBot with Camera, Computer to insert pre-trained model into the MBot
 * <b>Learning Outcomes:</b> The primary goal is to show the audience how different datasets can effect how well a neural network can recognize images. Specifications such as lighting and angle of the image can impact the accuracy of the model.
