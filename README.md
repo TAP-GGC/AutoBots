@@ -81,8 +81,9 @@ In this project, students will design custom hand gestures or images to represen
 ## :open_hands: Outreach
 <i>List the outreach events your team has participated in. </i>
 
-1. <b>Atlanta Science Festival<b>
-
+1. <b>Atlanta Science Festival<b> March 15, 2025, Georgia Gwinnett College: Promote IT field and teach Convolutional Neural Networks to those interested.
+2. <b>Atlanta Science Festival<b> March 22, 2025, Piedmont Park (Atlanta): Promote IT field and teach Convolutional Neural Networks to those interested.
+3. <b>Class Workshops<b> March 3 & April 1 & 4, 2025, Georgia Gwinnett College: Promote IT field and teach Convolutional Neural Networks to those interested.
 Example:
 
 1. <b>TAP Expo</b>, April 1, 2021, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
