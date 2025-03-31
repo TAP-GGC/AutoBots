@@ -80,7 +80,8 @@ In this project, students will design custom hand gestures or images to represen
 
 ## :open_hands: Outreach
 <i>List the outreach events your team has participated in. </i>
-Atlanta Science Festival (March 15 & 22, 2025)
+
+1. <b>Atlanta Science Festival<b>
 
 Example:
 
