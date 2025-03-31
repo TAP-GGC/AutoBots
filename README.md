@@ -68,10 +68,19 @@ In this project, students will design custom hand gestures or images to represen
 
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
-1. Team Member, Team Member, Team Member, John Doe, Jane Doe. "A Real Fake Workshop", Fake Event, April 1, 2024, Georgia Gwinnett College.  
+1. Dekhane, S., Xu, X., Napier, N., Barakat, R., Gunay, C., & Nagel, K. (2018). Technology focused service-learning course to increase confidence and persistence in computing. Journal of Computing Sciences in Colleges, 34(2), 147-153.Hannes Hartenstein and Kenneth Laberteaux, Vehicular Applications and Inter-Networking Technologies, 1st edition, Wiley, February 2010. 
+
+2. Mosquera Reina, V., Cunico, R., Williams, J., Bauer, M., Doloc-Mihu, A., & Robertson, C. (2021, October). Introducing Programming Concepts through Interactive Online Workshops. In Proceedings of the 22nd Annual Conference on Information Technology Education (pp. 71-72). 
+
+3. Robertson, C., & Doloc-Mihu, A. (2021, October). Assessing the effectiveness of teaching programming concepts through online interactive outreach workshops. In Proceedings of the 22nd Annual Conference on Information Technology Education (pp. 123-128). 
+
+4. “Scratch - Imagine, Program, Share.” [Online]. Available: https://scratch.mit.edu/. [Accessed: 03-Mar-2025] 
+
+5. R. Yamashita, M. Nishio, R. K. G. Do, and K. Togashi, “Convolutional neural networks: an overview and application in radiology.,” Insights Imaging, vol. 9, no. 4, pp. 611–629, Aug. 2018, doi: 10.1007/s13244-018-0639-9. 
 
 ## :open_hands: Outreach
 <i>List the outreach events your team has participated in. </i>
+Atlanta Science Festival (March 15 & 22, 2025)
 
 Example:
 
