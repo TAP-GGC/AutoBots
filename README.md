@@ -116,11 +116,13 @@ Your repo doesn't have to have every section used below. This is just an example
 [Video with Scratch instructions](https://youtu.be/v-GUbj7DMEE)
 
 <!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
-## CS First Installation Walkthrough
+## MBot connection to MBlock
+1. Click on the link here: [LINK HERE]
+2. Scroll down and click source code
+3. On the device tab, select bluetooth, enable bluetooth if prompted, and connect.
+4. If done right, the blue light within the MBot will stop blinking.
+   
 [Click here to view instructions](/documents/tutorial%20materials/CS%20FIRST/CS%20First%20Walkthrough.md)
-
-### Getting to the game 
-[Click here to view instructions](/documents/tutorial%20materials/Getting%20to%20the%20Game.md)
 
 ## Usage
 <i> Describe HOW to use your game. </i> 
