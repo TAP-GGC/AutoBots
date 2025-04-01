@@ -84,10 +84,6 @@ In this project, students will design custom hand gestures or images to represen
 1. <b>Atlanta Science Festival<b> March 15, 2025, Georgia Gwinnett College: Promote IT field and teach Convolutional Neural Networks to those interested.
 2. <b>Atlanta Science Festival<b> March 22, 2025, Piedmont Park (Atlanta): Promote IT field and teach Convolutional Neural Networks to those interested.
 3. <b>Class Workshops<b> March 3 & April 1 & 4, 2025, Georgia Gwinnett College: Promote IT field and teach Convolutional Neural Networks to those interested.
-Example:
-
-1. <b>TAP Expo</b>, April 1, 2021, Georgia Gwinnett College: to promote the IT field and encourage college students to sign up for TAP.
-2. <b>Class Workshops</b>, April 13-15, 2021, Georgia Gwinnett College: to promote the IT field to non-IT students.
 
 ## :mag_right: Similar Projects
 <i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i> 
