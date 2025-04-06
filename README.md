@@ -13,7 +13,7 @@ AutoBots is a maze puzzle where students get to learn how image recognition work
 proper data training is essential for robots to recognize images.
 <!-- You can look at other TAP projects if you need a better idea of how to describe your workshops objectives -->
 
-This workshop has participants interact with a few distinct datasets that were each used to train some models. Students get to choose which dataset they would like to use, which would represent which model will be fed into the robot. The robot would then navigate through some obstacles and each dataset would reflect how well the robot could recognize those images.
+This workshop has participants train their own Convolutional Neural Network to recognize custom hand gestures and allow control of a Makeblock Mbot Mega. Students get to create their own distinct dataset based on images captured of their hand. The robot would then navigate through some obstacles and each gesture would reflect how well the robot could recognize those images.
 
 ## :bulb: Project Information
 <!-- 
