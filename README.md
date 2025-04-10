@@ -32,9 +32,9 @@ You can select from a range of audiences or a single auidience. Examples:
 -->
 * <b>Difficulty Level:</b> Intermediate
 * <b>Target Audience:</b> 6-12, College, Non-Stem
-* <b>Duration of Workshop:</b> 30 minutes
-* <b>Needed Materials:</b> MBot with Camera, Computer to insert pre-trained model into the MBot
-* <b>Learning Outcomes:</b> The primary goal is to show the audience how different datasets can effect how well a neural network can recognize images. Specifications such as lighting and angle of the image can impact the accuracy of the model.
+* <b>Duration of Workshop:</b> 1 hour
+* <b>Needed Materials:</b> Mbot Mega, Google Chrome web--browser, Laptop with camera
+* <b>Learning Outcomes:</b> The primary goal is to show the audience how distinct training datasets can effect how well a neural network can recognize images. Specifications such as lighting and angle of the image can impact the accuracy of the model.
 * <b>Your Main Technology</b> MBlock (Uses Scratch Block Coding)
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
@@ -63,7 +63,7 @@ You can select from a range of audiences or a single auidience. Examples:
 
 
 ## :page_with_curl: Project Description
-In this project, students will design custom hand gestures or images to represent specific movements or commands for an MBot robot. Using image recognition and machine learning, students will train a model to recognize these gestures and teach the robot to react accordingly—whether it’s moving forward, turning, stopping, or navigating obstacles. This hands-on project will allow students to develop their skills in image recognition, AI model training, and robotics control, while exploring the complexities and challenges of creating real-world applications using AI and robotics technologies.
+In this project, students will design custom hand gestures or images to represent specific movements or commands for an MBot robot. Using image recognition and machine learning, students will train a model to recognize these gestures and teach the robot to react accordingly—whether it’s moving forward, turning, stopping to navigating obstacles. This hands-on project will allow students to develop their skills in image recognition, AI model training, and robotics control, while exploring the complexities and challenges of creating real-world applications using AI and robotics technologies.
 
 
 ## :memo: Publications
@@ -83,7 +83,7 @@ In this project, students will design custom hand gestures or images to represen
 
 1. <b>Atlanta Science Festival<b> March 15, 2025, Georgia Gwinnett College: Promote IT field and teach Convolutional Neural Networks to those interested.
 2. <b>Atlanta Science Festival<b> March 22, 2025, Piedmont Park (Atlanta): Promote IT field and teach Convolutional Neural Networks to those interested.
-3. <b>Class Workshops<b> March 3 & April 1 & 4, 2025, Georgia Gwinnett College: Promote IT field and teach Convolutional Neural Networks to those interested.
+3. <b>Class Workshops<b> March 31 & April 1 & 4, 2025, Georgia Gwinnett College: Promote IT field and teach Convolutional Neural Networks to those interested.
 
 ## :mag_right: Similar Projects
 <i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i> 
