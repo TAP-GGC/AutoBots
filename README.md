@@ -120,7 +120,7 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 [Click here to view instructions](/documents/tutorial%20materials/mbotconnect.md)
 
 ## Usage
-<i> Post connection to the MBot with MBlock open with the correct link. WEBCAM IS NEEDED. </i> 
+<i> Post connection to the MBot with MBlock open with the correct link. WEBCAM AND GOOGLE CHROME IS REQUIRED. </i> 
 1. On the sprite tab, scroll down from the open bar where all code blocks are stored.
 2. If done correctly, there is a block for teachable machine. Click on it.
 3. On top of the block codes, there is a Create/Manage model. Click on it.
