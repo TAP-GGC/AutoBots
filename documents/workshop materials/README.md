@@ -1,1 +1,9 @@
-If your workshop uses something like Google Slides or Power Point, the file would go here along with any other files necessary for your doing your workshop
+# Autobots Workshop
+
+[Autobots.pptx](https://github.com/user-attachments/files/19677167/Autobots.pptx)
+
+Materials:
+Mbot Mega
+Laptop
+Google Chrome
+Camera
