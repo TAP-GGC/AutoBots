@@ -99,7 +99,7 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 
 * [Scratch](https://scratch.mit.edu/) is a block-based programming language developed by the MIT Media Lab as an education tool for children to learn computing in a fun and interactive way.
 * Scratch has drag-and-drop interfaces. Unlike text-based programming language like Java or C where you physically type every line of code, in Scratch, you can drag and drop pre-made codes and organize them into an algorithm. It's like solving a jigsaw puzzle!
-* Explain why your team chose this technology for this workshop.
+* Autobots uses MBlock, which is a Scratch program that comes along with the MBot. While MBlock is Scratch-based, it also contain Google's teachable machine, which helps train the MBot in image recognition.
 
 <p align="center">
 <img src = "media/technology/block-based language.png" width ="400" height="200">
@@ -125,13 +125,18 @@ Your repo doesn't have to have every section used below. This is just an example
 [Click here to view instructions](/documents/tutorial%20materials/CS%20FIRST/CS%20First%20Walkthrough.md)
 
 ## Usage
-<i> Describe HOW to use your game. </i> 
-Example: 
-1. Press the Left arrow key to move to the left.
-2. Press the Right arrow key to move to the right.
-3. Press the Up arrow key to move up.
-4. Press the Down arrow key to move down.
-5. You may also replace the arrow keys with a Makey Makey. 
+<i> Post connection to the MBot with MBlock open with the correct link. WEBCAM IS NEEDED. </i> 
+1. On the sprite tab, scroll down from the open bar where all code blocks are stored.
+2. If done correctly, there is a block for teachable machine. Click on it.
+3. On top of the block codes, there is a Create/Manage model. Click on it.
+4. Scroll down and select Image Recognition (or alike).
+5. Ensure that webcam is enabled/turned on. Create desired amount of classes.
+6. Using the webcam, take a single or multiple pictures of your desired object. In this case, hands would be the object.
+7. Do this for all classes. Ensure that each object is distinct from each other.
+8. When finished, change model settings to your desired preference. For this project, keep settings default. Click on train model.
+9. When finished, webcam should turn on. Test your objects to ensure right classes are being identified.
+10. If correct, click on the top left to use model.
+11. While on the sprite tab, replace all instances of model name and classes to your model/class naming convention. 
 
 ## Short Demo Instructions 
 [Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
