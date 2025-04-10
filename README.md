@@ -125,7 +125,7 @@ Your repo doesn't have to have every section used below. This is just an example
 4. On the device tab, select bluetooth, enable bluetooth if prompted, and connect.
 5. If done right, the blue light within the MBot will stop blinking.
    
-[Click here to view instructions](/documents/tutorial%20materials/CS%20FIRST/CS%20First%20Walkthrough.md)
+[Click here to view instructions](/documents/tutorial%20materials/mbotconnect.md)
 
 ## Usage
 <i> Post connection to the MBot with MBlock open with the correct link. WEBCAM IS NEEDED. </i> 
