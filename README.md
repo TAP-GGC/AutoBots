@@ -136,7 +136,8 @@ Your repo doesn't have to have every section used below. This is just an example
 8. When finished, change model settings to your desired preference. For this project, keep settings default. Click on train model.
 9. When finished, webcam should turn on. Test your objects to ensure right classes are being identified.
 10. If correct, click on the top left to use model.
-11. While on the sprite tab, replace all instances of model name and classes to your model/class naming convention. 
+11. While on the sprite tab, replace all instances of model name and classes to your model/class naming convention.
+12. Run code to test if models and classes are working. If it is not working, check if all instances are correctly placed (i.e. Stop function is replaced with Stop class equivalent). Otherwise, you just made your first Convolutional Neural Network model!
 
 ## Short Demo Instructions 
 [Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
