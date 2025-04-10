@@ -119,7 +119,7 @@ Your repo doesn't have to have every section used below. This is just an example
 
 <!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
 ## MBot connection to MBlock
-1. Click on the link here: [LINK HERE]
+1. Click on the link here: https://planet.mblock.cc/project/5574657
 2. Scroll down and click source code
 3. On the device tab, select bluetooth, enable bluetooth if prompted, and connect.
 4. If done right, the blue light within the MBot will stop blinking.
