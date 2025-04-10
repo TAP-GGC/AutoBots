@@ -108,14 +108,6 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 </p>
 
 ## Project Setup/Installation 
-<i> This section is dedicated to linking to .md files in your documents/tutorial/ folder that will contain instructions on installation
-
-Your repo doesn't have to have every section used below. This is just an example so you can get an idea of what your own repo should look like</i>
-
-### Opening a blank Scratch page 
-[Click here to view instructions](/documents/tutorial%20materials/Opening%20a%20blank%20Scratch%20page.md)
-
-[Video with Scratch instructions](https://youtu.be/v-GUbj7DMEE)
 
 <!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
 ## MBot connection to MBlock
