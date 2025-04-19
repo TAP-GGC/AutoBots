@@ -138,8 +138,7 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 [Demo Video on how to control your mBot](https://youtu.be/nPc_onJ8ggs)
 
 ## Workshop Instructions 
-[Click here to view workshop walkthrough pdf file](/documents/tutorial%20materials/Workshop%PDF.pdf)
-
+[Click here to view workshop walkthrough pdf file](/documents/tutorial%materials/Workshop%PDF.pdf)
 [Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
 
 
