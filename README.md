@@ -135,7 +135,7 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 12. Run code to test if models and classes are working. If it is not working, check if all instances are correctly placed (i.e. Stop function is replaced with Stop class equivalent). Otherwise, you just made your first Convolutional Neural Network model!
 
 ## Short Demo Instructions 
-[Demo Video on how to install and play our game](https://youtu.be/mA80Aa55t-U)
+[Demo Video on how to control your mBot](https://youtu.be/nPc_onJ8ggs)
 
 ## Workshop Instructions 
 [Click here to view workshop walkthrough pdf file](/documents/tutorial%20materials/Scratch%20Workshop%20Walkthrough.pdf)
