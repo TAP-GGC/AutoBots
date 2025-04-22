@@ -88,7 +88,17 @@ In this project, students will design custom hand gestures or images to represen
 3. <b>Class Workshops<b> March 31 & April 1 & 4, 2025, Georgia Gwinnett College: Promote IT field and teach Convolutional Neural Networks to those interested.
 
 ## :mag_right: Similar Projects
-<i>Use this section to link to a project done in the TAP program that is related in some way to your own. This can be a sister project done during your TAP semester or a TAP project done in the past. Example: </i> 
+### AI Projects
+* AiDiva
+* ArtifyAI
+### Robot Project
+* Jedi (Sphero)
+* Ballislife (Sphero)
+* DancingSphero (Sphero)
+* Code-Inator (MBot)
+* Wanda (Cosomo)
+* TechGoldFish (Sphero)
+* Dronereality
 
 If you're interested in more workshops that utilize Scratch, check out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles)!
 
@@ -142,5 +152,4 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 
 
 [Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
-
 
