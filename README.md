@@ -144,12 +144,12 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 11. While on the sprite tab, replace all instances of model name and classes to your model/class naming convention.
 12. Run code to test if models and classes are working. If it is not working, check if all instances are correctly placed (i.e. Stop function is replaced with Stop class equivalent). Otherwise, you just made your first Convolutional Neural Network model!
 
-## Short Demo Instructions 
+## Workshop Instructions 
 [Demo Video on how to control your mBot](https://youtu.be/nPc_onJ8ggs)
 
 ## Workshop Instructions 
 [Click here to view workshop walkthrough PDF file](/documents/tutorial%20materials/Workshop%20PDF.pdf)
 
 
-[Our Game Workshop Video](https://youtu.be/Mtsre0iMStM)
+[Our Demo Video](https://youtu.be/oV6r2fmOg98)
 
