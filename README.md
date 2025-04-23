@@ -89,16 +89,16 @@ In this project, students will design custom hand gestures or images to represen
 
 ## :mag_right: Similar Projects
 ### AI Projects
-* AiDiva
-* ArtifyAI
+* [AiDiva](https://github.com/TAP-GGC/AiDiva)
+* [ArtifyAI](https://github.com/TAP-GGC/ArtifyAI)
 ### Robot Project
-* Jedi (Sphero)
-* Ballislife (Sphero)
-* DancingSphero (Sphero)
-* Code-Inator (MBot)
-* Wanda (Cosomo)
-* TechGoldFish (Sphero)
-* Dronereality
+* [Jedi](https://github.com/TAP-GGC/Jedi) (Sphero)
+* [Ballislife](https://github.com/TAP-GGC/ball-is-life) (Sphero)
+* [DancingSphero](https://github.com/TAP-GGC/DancingSphero) (Sphero)
+* [Code-Inator](https://github.com/TAP-GGC/Code-Nator) (MBot)
+* [Wanda](https://github.com/TAP-GGC/wanda) (Cosomo)
+* [TechGoldFish](https://github.com/TAP-GGC/TechGoldFish) (Sphero)
+* [Dronereality](https://github.com/TAP-GGC/dronereality)
 
 If you're interested in more workshops that utilize Scratch, check out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles)!
 
@@ -118,6 +118,8 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 </p>
 
 ## Project Setup/Installation 
+
+## INSERT BEBOP VIDEO ISNTRUCTION FOR MBOT HERE
 
 <!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
 ## MBot connection to MBlock
