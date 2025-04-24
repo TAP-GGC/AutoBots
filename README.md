@@ -91,7 +91,7 @@ In this project, students will design custom hand gestures or images to represen
 ### AI Projects
 * [AiDiva](https://github.com/TAP-GGC/AiDiva)
 * [ArtifyAI](https://github.com/TAP-GGC/ArtifyAI)
-### Robot Project
+### Robot Projects
 * [Jedi](https://github.com/TAP-GGC/Jedi) (Sphero)
 * [Ballislife](https://github.com/TAP-GGC/ball-is-life) (Sphero)
 * [DancingSphero](https://github.com/TAP-GGC/DancingSphero) (Sphero)
