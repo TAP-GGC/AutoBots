@@ -98,7 +98,7 @@ In this project, students will design custom hand gestures or images to represen
 * [Code-Inator](https://github.com/TAP-GGC/Code-Nator) (MBot)
 * [Wanda](https://github.com/TAP-GGC/wanda) (Cosomo)
 * [TechGoldFish](https://github.com/TAP-GGC/TechGoldFish) (Sphero)
-* [Dronereality](https://github.com/TAP-GGC/dronereality)
+* [Dronereality](https://github.com/TAP-GGC/dronereality) (Drones)
 
 If you're interested in more workshops that utilize Scratch, check out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles)!
 
