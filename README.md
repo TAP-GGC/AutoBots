@@ -103,14 +103,13 @@ In this project, students will design custom hand gestures or images to represen
 If you're interested in more workshops that utilize Scratch, check out [Space Mechanic](https://github.com/TAP-GGC/NinjaTurtles)!
 
 ## :computer: Technology
-<i> Replace Scratch with whatever technology you're using and make sure to have a logo of that technology uploaded to the technology folder within the media folder. </i>
 <!-- be sure to use the alt text feature in case anybody viewing your repo is using  screen reader! you want your workshop to be as accessible as possible -->
 <p align="center">
   <img alt="MBlock Logo" src = "media/technology/mbotlogo.png" width="200" height="200"/>
 </p>
 
-* [Scratch](https://scratch.mit.edu/) is a block-based programming language developed by the MIT Media Lab as an education tool for children to learn computing in a fun and interactive way.
-* Scratch has drag-and-drop interfaces. Unlike text-based programming language like Java or C where you physically type every line of code, in Scratch, you can drag and drop pre-made codes and organize them into an algorithm. It's like solving a jigsaw puzzle!
+* [MBlock](https://mblock.cc/) is a block-based programming languaged used to teach kids and beginners about coding. It's based off the Scratch 3.0 interface.
+* Because of it being based off Scratch, beginners don't need to worry about coding due its drag-and-drop interface. The mBlock software contains a plethora of extentions and it allows support for AI.
 * Autobots uses MBlock, which is a Scratch program that comes along with the MBot. While MBlock is Scratch-based, it also contain Google's teachable machine, which helps train the MBot in image recognition.
 
 <p align="center">
@@ -119,7 +118,7 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 
 ## Project Setup/Installation 
 
-## INSERT BEBOP VIDEO ISNTRUCTION FOR MBOT HERE
+[Building the mBot Mega Instructions](https://support.makeblock.com/hc/en-us/articles/1500009896321-Build-mBot-Mega)
 
 <!-- if your project uses scratch, you can reuse any of these instructions (be sure to include CS First alternatives) -->
 ## MBot connection to MBlock
@@ -147,11 +146,11 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 12. Run code to test if models and classes are working. If it is not working, check if all instances are correctly placed (i.e. Stop function is replaced with Stop class equivalent). Otherwise, you just made your first Convolutional Neural Network model!
 
 ## Workshop Instructions 
-[Demo Video on how to control your mBot](https://youtu.be/nPc_onJ8ggs)
+[Workshop Video on how to control your mBot](https://youtu.be/nPc_onJ8ggs)
 
-## Workshop Instructions 
 [Click here to view workshop walkthrough PDF file](/documents/tutorial%20materials/Workshop%20PDF.pdf)
 
 
+## Demo Video
 [Our Demo Video](https://youtu.be/oV6r2fmOg98)
 
