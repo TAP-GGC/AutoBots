@@ -71,7 +71,9 @@ In this project, students will design custom hand gestures or images to represen
 ## :memo: Publications
 <!-- team members, then professors/advisors. "Name of Publication", event, month and day, year, Georgia Gwinnett College. -->
 
-1. R. Yamashita, M. Nishio, R. K. G. Do, and K. Togashi, “Convolutional neural networks: an overview and application in radiology.,” Insights Imaging, vol. 9, no. 4, pp. 611–629, Aug. 2018, doi: 10.1007/s13244-018-0639-9. 
+1. R. Yamashita, M. Nishio, R. K. G. Do, and K. Togashi, “Convolutional neural networks: an overview and application in radiology.,” Insights Imaging, vol. 9, no. 4, pp. 611–629, Aug. 2018, doi: 10.1007/s13244-018-0639-9.
+2. Tapia Abstract - Bhalsod, K., Gorman, I., Tran, J., Gunay, C., & Robertson, C. (2025, April 11). Learning Convolutional Neural Networks Using mBots.
+3. STARS and CREATE Symposium - Bhalsod, K., Gorman, I., Tran, J., Gunay, C., & Robertson, C. (2025, April 11). Controlling Robots Using Image Recognition. 
 
 ## :open_hands: Outreach
 <i>List the outreach events your team has participated in. </i>
