@@ -40,7 +40,7 @@ You can select from a range of audiences or a single auidience. Examples:
 <!-- Commercial Video stored in the Media folder will be linked here -->
 
 <b>Commercial Video</b> Click on the image
-[<img align="center" src= "media/technology/mbotImage.PNG" width="" height="">](https://youtu.be/0ng56N1qFLg)
+[<img align="center" src= "media/technology/mbotImage.png" width="" height="">](https://youtu.be/0ng56N1qFLg)
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
