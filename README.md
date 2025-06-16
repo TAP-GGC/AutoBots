@@ -42,9 +42,6 @@ You can select from a range of audiences or a single auidience. Examples:
 <b>Commercial Video</b> Click on the image
 [<img align="center" src= "media/technology/mbotImage.PNG" width="" height="">](https://youtu.be/0ng56N1qFLg)
 
-https://github.com/user-attachments/assets/bf293176-6c56-42a5-abb3-8fcd7001cc5e
-
-
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
 ## :pencil2: Team: Autobots
