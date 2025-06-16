@@ -39,6 +39,8 @@ You can select from a range of audiences or a single auidience. Examples:
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
 
+<b>Commercial Video</b> Click on the image
+[<img align="center" src= "media/technology/mbotImage.PNG" width="" height="">](https://youtu.be/0ng56N1qFLg)
 
 https://github.com/user-attachments/assets/bf293176-6c56-42a5-abb3-8fcd7001cc5e
 
@@ -141,11 +143,12 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 12. Run code to test if models and classes are working. If it is not working, check if all instances are correctly placed (i.e. Stop function is replaced with Stop class equivalent). Otherwise, you just made your first Convolutional Neural Network model!
 
 ## Workshop Instructions 
-[Workshop Video on how to control your mBot](https://youtu.be/nPc_onJ8ggs)
-
 [Click here to view workshop walkthrough PDF file](/documents/tutorial%20materials/Workshop%20PDF.pdf)
 
+<b> Workshop Video on how to control your mBot</b> Click on the image
+[<img align="center" src= "media/technology/workshopImage.PNG" width="" height="">](https://youtu.be/eWBbS57NUfY)
 
 ## Demo Video
-[Our Demo Video](https://youtu.be/oV6r2fmOg98)
+<b>Our Demo Video</b> Click on the image
+[<img align="center" src= "media/technology/demoImg.PNG" width="" height="">](https://youtu.be/GyAizXZ1A8Q)
 
