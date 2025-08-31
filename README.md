@@ -16,7 +16,7 @@ proper data training is essential for robots to recognize images.
 This workshop has participants train their own Convolutional Neural Network to recognize custom hand gestures and allow control of a Makeblock Mbot Mega. Students get to create their own distinct dataset based on images captured of their hand. The robot would then navigate through some obstacles and each gesture would reflect how well the robot could recognize those images.
  ### Commercial Video 
 Click the image below to watch a 30 second commercial for the project <br> <br>
-[<img src= "media/team photos/teamautobots.jpg" width="400" height="200">](https://youtu.be/0ng56N1qFLg) 
+[<img src= "media/team photos/teamautobots.jpg" width="400">](https://youtu.be/0ng56N1qFLg) 
 
 ## :bulb: Project Information
 <!-- 
@@ -42,8 +42,7 @@ You can select from a range of audiences or a single auidience. Examples:
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
 
-<b>Commercial Video</b> Click on the image
-[<img align="center" src= "media/technology/mbotImage.png" width="" height="">](https://youtu.be/0ng56N1qFLg)
+<img alt="art featuring batman, wonder woman, and superman" src = "media/technology/mbotImage.png" width="" height="300">
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
