@@ -67,6 +67,9 @@ You can select from a range of audiences or a single auidience. Examples:
 
 ## :page_with_curl: Project Description
 In this project, students will design custom hand gestures or images to represent specific movements or commands for an MBot robot. Using image recognition and machine learning, students will train a model to recognize these gestures and teach the robot to react accordingly—whether it’s moving forward, turning, stopping to navigating obstacles. This hands-on project will allow students to develop their skills in image recognition, AI model training, and robotics control, while exploring the complexities and challenges of creating real-world applications using AI and robotics technologies.
+### Demo Video
+<b>Our Demo Video</b> Click on the image
+[<img align="center" src= "media/technology/demoImg.PNG" width="" height="">](https://youtu.be/GyAizXZ1A8Q)
 
 
 ## :memo: Publications
@@ -147,7 +150,4 @@ If you're interested in more workshops that utilize Scratch, check out [Space Me
 <b> Workshop Video on how to control your mBot</b> Click on the image
 [<img align="center" src= "media/technology/workshopImage.PNG" width="" height="">](https://youtu.be/eWBbS57NUfY)
 
-## Demo Video
-<b>Our Demo Video</b> Click on the image
-[<img align="center" src= "media/technology/demoImg.PNG" width="" height="">](https://youtu.be/GyAizXZ1A8Q)
 
