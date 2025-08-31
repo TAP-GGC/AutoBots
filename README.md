@@ -42,14 +42,14 @@ You can select from a range of audiences or a single auidience. Examples:
 * [Technology Ambassador Program](https://tapggc.org/) <b>(TAP)</b> is a project-based class that provides a collaborative environment for students to work with their fellow classmates on a semester-long project using technologies of their choice. TAP strives to increase participation in IT through numerous outreach activities and workshops that are designed to showcase the creative and fun side of technology.
 <!-- Commercial Video stored in the Media folder will be linked here -->
 
-<img alt="art featuring batman, wonder woman, and superman" src = "media/technology/mbotImage.png" width="" height="300">
+<img alt="art featuring batman, wonder woman, and superman" src = "media/technology/mbotImage.png" width="400">
 
 <!-- videos can also be dragged and dropped into markdown files if you want them embedded -->
 
 ## :pencil2: Team: Autobots
 
 <!-- Use the team photo of your choice once youve uploaded it to the team photo folder within the media folder -->
-<img alt="art featuring batman, wonder woman, and superman" src = "media/team photos/teamautobots.jpg" width="" height="300">
+<img alt="art featuring batman, wonder woman, and superman" src = "media/team photos/teamautobots.jpg" width="400">
 
 > (From left to right: Jonathan, Krishan, and Isaiah)
 <!-- replace with full names of your team members -->
