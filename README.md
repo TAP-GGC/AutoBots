@@ -16,6 +16,9 @@ proper data training is essential for robots to recognize images.
 This workshop has participants train their own Convolutional Neural Network to recognize custom hand gestures and allow control of a Makeblock Mbot Mega. Students get to create their own distinct dataset based on images captured of their hand. The robot would then navigate through some obstacles and each gesture would reflect how well the robot could recognize those images.
  ### Commercial Video 
 Click the image below to watch a 30 second commercial for the project <br> <br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ng56N1qFLg?si=fp7I-zuYK05DIxbd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [<img src= "media/team photos/teamautobots.jpg" width="400">](https://youtu.be/0ng56N1qFLg) 
 
 ## :bulb: Project Information
